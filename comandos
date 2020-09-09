@@ -1,2 +1,7 @@
 Comandos do git consistem em diversas formas de verificação em nosso versionamento de código.
+O comando git init dentro do diretório, permite que os arquivos desse diretório comecem a ser rastreados pelo git.
+Após isso rode o comando git status, será apresentado os arquivos em vermelho e informado que o 
+git precisa adicionar esses arquivos.
+Rode git add nomedoarquivo ou git add . (Inserindo ponto todos os arquivos vão ser adicionados e estarão prontos para serem commitados.
+Após os arquivos serem adicionados conforme solicitado, rode o comando git commit -m "descrição do commit"
 
