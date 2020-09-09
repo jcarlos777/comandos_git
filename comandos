@@ -4,4 +4,6 @@ Após isso rode o comando git status, será apresentado os arquivos em vermelho 
 git precisa adicionar esses arquivos.
 Rode git add nomedoarquivo ou git add . (Inserindo ponto todos os arquivos vão ser adicionados e estarão prontos para serem commitados.
 Após os arquivos serem adicionados conforme solicitado, rode o comando git commit -m "descrição do commit"
+Depois disso o commit será aplicado corretamente, após os commits serem aplicados, faça a inspeção e se for o caso crie um repositório e envie para o github.
 
+1234567
